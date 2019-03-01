@@ -1,6 +1,6 @@
 # 版本信息
 FROM centos:7
-MAINTAINER wuweixiang <wuweixiang.alex@gmail.com>
+MAINTAINER qianpangzi <cq20110310@gmail.com>
 # 设置工作目录
 WORKDIR /var/
 # 添加jdk、tomcat
